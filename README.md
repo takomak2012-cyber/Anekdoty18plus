@@ -25,6 +25,8 @@
 1. Собрать подписанный universal APK и положить его в `download/`.
 2. Обновить версию в `index.html`: кнопка скачивания (`href` и `download`), список фактов.
 3. Сделать коммит и запушить в `main` — GitHub Pages обновится автоматически.
+4. Создать релиз с APK: `gh release create vX.YY <apk> --title "Анекдоты 18+ X.YY" --notes-file notes.md`.
+   Релизы: https://github.com/takomak2012-cyber/Anekdoty18plus/releases
 
 ## Требования РСЯ
 
