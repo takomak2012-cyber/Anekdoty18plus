@@ -3,7 +3,7 @@
 Сайт мобильного приложения «Анекдоты 18+» (Android).
 
 - Приложение: `com.windak.schooljokes18plus`
-- Версия на сайте: 1.10 (APK в `download/`)
+- Версия на сайте: 1.13 (APK в `download/`)
 - Публикация: GitHub Pages, ветка `main`
 - Адрес: https://takomak2012-cyber.github.io/Anekdoty18plus/
 
