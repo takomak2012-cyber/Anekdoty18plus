@@ -44,6 +44,8 @@ h1{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:33px;letter-sp
 .btn:hover{filter:brightness(1.07)}
 .facts{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:0}
 .facts li{background:rgba(255,255,255,.04);border:1px solid var(--line);border-radius:2px;padding:5px 12px;font-size:14px;color:var(--text);letter-spacing:.3px}
+.note{margin:14px 0 0;font-size:14px;color:var(--muted)}
+.note a{color:var(--brass)}
 
 .block{padding:38px 0}
 .block h2{font-family:Georgia,"Times New Roman",serif;font-size:25px;color:var(--brass);margin:0 0 18px;padding-bottom:10px;border-bottom:1px solid var(--line)}
