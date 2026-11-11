@@ -6,6 +6,7 @@
 - Версия на сайте: 1.16 (APK в `download/`)
 - Публикация: GitHub Pages, ветка `main`
 - Адрес: https://takomak2012-cyber.github.io/Anekdoty18plus/
+- RuStore: https://www.rustore.ru/catalog/app/com.windak.schooljokes18plus
 
 ## Содержимое
 
